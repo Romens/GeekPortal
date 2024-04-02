@@ -1,0 +1,21 @@
+body {
+  min-height: 100vh;
+  font-family: 'Open Sans', sans-serif;
+}
+.area {
+    min-height: 90vh;
+}
+
+.navbar-brand img {
+    height: 3rem;
+    margin-bottom: -0.5rem;
+    margin-top: -0.5rem;
+}
+
+#title-bar {
+	position: fixed;
+	left: env(titlebar-area-x, 0);
+	top: env(titlebar-area-y, 0);
+	height: env(titlebar-area-height, 50px);
+	width: env(titlebar-area-width, 100%);
+}

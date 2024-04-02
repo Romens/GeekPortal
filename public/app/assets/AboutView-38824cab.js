@@ -1,0 +1,1 @@
+import{d as s,c as e,w as o,M as n,o as i,a,t as c}from"./index-be9ca603.js";const r={class:"about"},_={class:"container"},p=s({__name:"AboutView",setup(l){return(t,u)=>(i(),e(n,null,{default:o(()=>[a("div",r,[a("div",_,[a("h1",null,c(t.$t("This is about page")),1)])])]),_:1}))}});export{p as default};

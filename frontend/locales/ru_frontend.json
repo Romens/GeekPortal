@@ -1,0 +1,29 @@
+{
+    "header": {
+        "navbar_title": "Catalog",
+        "post_title": "Посты",
+        "home_title": "Главная",
+        "about_title": "О проекте"
+    },
+    "This is Catalog Bootstrap!": "Это -  Catalog Bootstrap!",
+    "This is about page": "Это страница о проекте",
+    "posted_by_author": "Опубликовал",
+    "post": {
+        "search": "Поиск",
+        "not_found": "Не найдено",
+        "create": "Написать пост",
+        "back": "Назад к постам",
+        "placeholder": {
+            "title": "Название поста",
+            "text": "Текст поста"
+        }
+    },
+    "auth": {
+        "login": "Вход",
+        "logout": "Выход",
+        "register": "Регистрация",
+        "email_placeholder": "Введите Email",
+        "password_placeholder": "Введите Email",
+        "restore": "Восстановить пароль"
+    }
+}
